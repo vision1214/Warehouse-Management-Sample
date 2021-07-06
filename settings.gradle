@@ -1,0 +1,2 @@
+rootProject.name = "KgacDB Generator"
+include ':app'
